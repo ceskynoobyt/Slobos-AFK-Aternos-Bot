@@ -8,7 +8,7 @@
   "server": {
     "ip": "boyserver-5AvY.aternos.me",
     "port": 56350,
-    "version": "26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
